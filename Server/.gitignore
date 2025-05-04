@@ -1,0 +1,115 @@
+!gradle/wrapper/gradle-wrapper.jar
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+.grandlew
+.grandlew.bat
+.settings.gradle
+.build.gradle
+
+# Ignore Gradle folder
+.gradle/
+
+# Ignore build folder
+build/
+
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### IntelliJ IDEA ###
+.idea/modules.xml
+.idea/jarRepositories.xml
+.idea/compiler.xml
+.idea/libraries/
+*.iws
+*.iml
+*.ipr
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
+/.idea
+/mvnw
+/mvnw.cmd
+/.mvn
+
+DDict Logo
+
+.idea/*
+.idea
+idea/
+.idea/
+idea/*
+
+# Ignore persistence.xml
+src/main/resources/META-INF/
+src/main/resources/*
+
+build
+
+build/classes/java/main/model/SinhVien.class
+build/resources/main/META-INF/beans.xml
+build/tmp/compileJava/compileTransaction/stash-dir/SinhVien.class.uniqueId0
+.idea/misc.xml
+
+### IntelliJ IDEA ###
+.idea/modules.xml
+.idea/jarRepositories.xml
+.idea/compiler.xml
+.idea/libraries/
+*.iws
+*.iml
+*.ipr
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+src/main/resources/META-INF/persistence.xml
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
+
+.gradle
