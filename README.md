@@ -10,13 +10,36 @@ Hệ thống quản lý bán hàng siêu thị sử dụng Java RMI (đồng b�
 ## 🖥️ Giao Diện Demo
 
 ### Màn hình đăng nhập
-![Login Screen](screenshots/login.png)
+![Login Screen](Image/login.png)
+
+### Màn hình thống kê
+![POS Screen](Image/thongke.png)
+
+### Màn hình quản lý sản phẩm
+![POS Screen](Image/ProductManagement.png)
+
+### Màn hình danh mục
+![POS Screen](Image/CategoryManagement.png)
+
+### Màn hình khách hàng
+![POS Screen](Image/CustomerManagement.png)
+
+### Màn hình nhân viên
+![POS Screen](Image/nhanvien.png)
+
+### Màn hình tài khoản
+![POS Screen](Image/taikhoan.png)
 
 ### Màn hình bán hàng
-![POS Screen](screenshots/pos.png)
+![POS Screen](Image/banhang.png)
 
-### Màn hình quản lý kho
-![Inventory Screen](screenshots/inventory.png)
+### Màn hình xuất hóa đơn
+![POS Screen](Image/hoadon.png)
+
+### Màn hình thanh toán
+![POS Screen](Image/thanhtoan.png)
+
+
 
 ## 🛠 Công Nghệ Sử Dụng
 
